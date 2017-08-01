@@ -1,6 +1,6 @@
 # Perfect vector macOS cursors
 
-![Preview](https://raw.githubusercontent.com/e1ectron/macOS-vector-cursors/master/preview.jpg)
+![Preview](https://github.com/e1ectron/macOS-vector-cursors/raw/master/preview.jpg)
 
 I start this project, because all we use cursors for our projects, to show some objects in action (on hover, drag etc.). But I not found cursors, which completely much with native macOS and has a good quality shapes.
 
