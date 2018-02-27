@@ -2,7 +2,7 @@
 
 [![Preview](https://github.com/e1ectron/macOS-vector-cursors/raw/master/preview.jpg)](https://github.com/e1ectron/macOS-vector-cursors/releases/latest)
 
-I start this project, because all we use cursors for our projects, to show some objects in action (on hover, drag etc.). But I not found cursors, which completely much with native macOS and has a good quality shapes.
+I start this project, because all we use cursors for our projects, to show some objects in action (on hover, drag etc.). But I not found cursors, which completely match with native macOS and has a good quality shapes.
 
 You can [download cursors in various formats](https://github.com/e1ectron/macOS-vector-cursors/releases/latest)
 
