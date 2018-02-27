@@ -6,7 +6,7 @@ I start this project, because all we use cursors for our projects, to show some 
 
 You can [download cursors in various formats](https://github.com/e1ectron/macOS-vector-cursors/releases/latest)
 
-In this pack all cursors already has shadows. If you need it without shadows — just just update shadow styles in Sketch file and export it. Or you can use svg from IconJar folder (it not support shadows in SVG).
+In this pack all cursors already has shadows. If you need it without shadows — just update shadow styles in Sketch file and export it. Or you can use svg from IconJar folder (it not support shadows in SVG).
 
 Cursors was built in Sketch with symbols support
 
